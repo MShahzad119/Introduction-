@@ -54,7 +54,20 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MShahzad119&show_icons=true&theme=radical" alt="Shahzad's GitHub stats"/>
-</p>
+<h3 align="left">📊 My Skill Levels</h3>
+
+| Skill               | Proficiency |
+|--------------------|-------------|
+| **SQL (SQL Server)** | 🔵🔵🔵🔵⚪ 80% |
+| **Power BI**         | 🔵🔵🔵🔵⚪ 80% |
+| **Excel**            | 🔵🔵🔵🔵⚪ 75% |
+| **Python**           | 🔵🔵🔵⚪⚪ 65% |
+| **Pandas**           | 🔵🔵🔵⚪⚪ 65% |
+| **Seaborn**          | 🔵🔵🔵⚪⚪ 60% |
+| **Scikit-Learn**     | 🔵🔵⚪⚪⚪ 50% |
+| **SPSS**             | 🔵🔵🔵⚪⚪ 60% |
+
+---
+
+💡 *Continuously learning and improving through hands-on projects and self-development.*
+
