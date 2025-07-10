@@ -22,7 +22,8 @@
 <p align="left">
   <a href="mailto:shahzadsajjad436@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-shahzadsajjad436@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
+  </a><br><br>
+  <img src="https://img.shields.io/badge/Phone-%2B923079246622-blue?style=for-the-badge&logo=phone&logoColor=white" alt="phone" />
 </p>
 
 ---
@@ -70,4 +71,3 @@
 ---
 
 💡 *Continuously learning and improving through hands-on projects and self-development.*
-
